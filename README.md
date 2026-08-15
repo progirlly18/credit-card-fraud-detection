@@ -180,6 +180,7 @@ credit-card-fraud-detection/
 ├── Credit_Card_Fraud_Detection_using_Machine_Learning.ipynb
 ├── README.md
 └── requirements.txt
+```
 
 ## 🚀 Future Work
 
