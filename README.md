@@ -180,3 +180,23 @@ credit-card-fraud-detection/
 ├── Credit_Card_Fraud_Detection_using_Machine_Learning.ipynb
 ├── README.md
 └── requirements.txt
+
+## 🚀 Future Work
+
+Potential extensions include:
+
+- Hyperparameter tuning using cross-validation
+- Cost-sensitive threshold optimization
+- Model calibration
+- Real-time fraud detection API
+- Deployment as a web application
+- Model monitoring and concept-drift detection
+- Evaluation on newer transaction datasets
+
+---
+
+## 👩‍💻 Author
+
+**Yashica G**
+
+Artificial Intelligence & Machine Learning
